@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 12312312312321312312312isiasdasdasdasdsdasdas
 asdasdsa:asdasdsdass
+=======
+asdsadasd
+>>>>>>> dev
